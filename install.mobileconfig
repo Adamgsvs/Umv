@@ -27,10 +27,6 @@
         <true/>
         <key>URL</key>
         <string>https://adamgsvs.github.io/Umv/</string>
-        <key>Icon</key>
-        <data>
-        iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAYAAABoWZ0lAAAACXBIWXMAAAsSAAALEgHS3X78AAAAB3RJTUUH5AQaDg0ycv7tWAAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAAnSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAPgGm2AAAU4Qm9gAAAAASUVORK5CYII=
-        </data>
       </dict>
     </array>
     <key>PayloadDisplayName</key>
